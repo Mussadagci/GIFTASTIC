@@ -6,6 +6,5 @@
 * When the user clicks one of the still GIPHY images, the gif will animate. If the user clicks the gif again, it will stop playing.
 * Under every gif, rating (PG, G, so on) is displayed.
 
-![Giftastic](https://github.com/nvidyakarthik/GifTastic/blob/master/assets/images/GifTastic.png)
-
+![Animal World](/assets/images/animalworld.png "Animal World")
 
