@@ -1,0 +1,67 @@
+button, div, form, input {
+    background-image: url("../images/Background.jpg");
+    margin: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+    font-size: 17px;
+}
+
+img {
+    height: 250px;
+    width: 350px;
+    padding: 10px 15px 15px 15px;
+    cursor: pointer;
+}
+
+h1 {
+    letter-spacing: 3px;
+    font-size: 40px;
+}
+
+.nature {
+    margin: 5px;
+}
+
+div#gifList-view div {
+    display: inline-block;
+}
+
+.jumbotron {
+    background-color: #73b733!important;
+    color: hsl(0, 0%, 96%)!important;
+    font-family: 'Ultra', serif;
+    text-align: center;
+    margin-top: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,255,0,0.3) , 0 6px 20px 0 rgba(0, 255, 0, 0.19);
+}
+
+.gifContent {
+    box-shadow: 0 4px 8px 0 rgba(0, 255, 0, 0.3), 0 6px 20px 0 rgba(0, 255, 0, 0.19);
+}
+
+.btn {
+    box-shadow: 0 4px 8px 0 rgba(0, 255, 0, 0.3), 0 6px 20px 0 rgba(0, 255, 0, 0.19);
+    font-size: 17px!important;
+}
+
+p {
+    margin: 0 0 10px;
+    padding: 10px 0px 0px 20px;
+    font-size: 17px;
+}
+
+#add-gif {
+    margin: 10px;
+}
+
+#formDiv {
+    text-align: center;
+    margin: 20px;
+}
+
+.form-control {
+    display: inline!important;
+    width: 40%!important;
+}
